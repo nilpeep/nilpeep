@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=comic+sense&weight=600&size=23&pause=1000&color=1E88E5&vCenter=true&width=800&height=60&lines=Hi,+I+am+Nil;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+A+Full+Stack+Developer.;%F0%9F%8E%93+Graduated+from+Software+Engineering.;%F0%9F%92%99+Love+to+learn+new+stuffs." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=comic+sense&weight=600&size=23&pause=1000&color=1E88E5&vCenter=true&width=800&height=60&lines=Hi,+I+am+Nil;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+A+Backand+Developer.;%F0%9F%8E%93+Enjoy+Programming;%F0%9F%92%99+Love+to+learn+new+stuffs." alt="Typing SVG" />
 </a>
 
 <!--h2 without bottom border-->
@@ -12,11 +12,10 @@
 </div>
 
 
-<p>  Hello, and welcome to my GitHub profile! I'm Dedicated to lifelong learning, I continuously seek out new technologies, tools, and libraries to enhance my skill set. Balancing my role as a freelancer with mentorship in an online full-stack development course, Effectively merge hands-on development expertise with a commitment to teaching. </p>
+<p>  Hello, and welcome to my GitHub profile! I'm Dedicated to lifelong learning, I continuously seek out new technologies, tools, and libraries to enhance my skill set. Effectively merge hands-on development expertise with a commitment to teaching. </p>
 
  <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture> <br>
 
-- Holding a Bachelor's degree in Computer Science and boasting over four years of comprehensive experience in the IT. 
 
 - Ask me anything about **MernStack Development**.
 
