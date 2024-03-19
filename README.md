@@ -138,7 +138,7 @@
 
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block"> More About Me on GitHub👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block"> More About Me on GitHub</h2></summary>
   </ul>
 </div>
 
@@ -147,8 +147,8 @@
 
 <div align = "center">
 
-![Stats Overview](https://raw.githubusercontent.com/AliDurul/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/AliDurul/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Stats Overview](https://raw.githubusercontent.com/nilpeep/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/nilpeep/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 <br>
@@ -164,14 +164,14 @@
 
 <b>🏆 Github Trophies</b>
 <br><br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=AliDurul&theme=discord" alt="MelvinAguilar" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=nilpeep&theme=discord" alt="MelvinAguilar" />
 
 
 <b>⚡ Github Public Stats</b>
 <br>
 <div style={display:flex}>
-<img src="https://github-readme-stats.vercel.app/api?username=AliDurul&show_icons=true&theme=radical&count_private=true" alt="AliDurul" width="420"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliDurul&layout=compact&theme=radical" alt="AliDurul" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=nilpeep&show_icons=true&theme=radical&count_private=true" alt="nilpeep" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilpeep&layout=compact&theme=radical" alt="nilpeep" height="165">
 </div>
   
   
