@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=comic+sense&weight=600&size=23&pause=1000&color=1E88E5&vCenter=true&width=800&height=60&lines=Hi,+I+am+Nil;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+A+Backand+Developer.;%F0%9F%8E%93+Enjoy+Programming;%F0%9F%92%99+Love+to+learn+new+stuffs." alt="Typing SVG" />
@@ -20,9 +19,8 @@
 - Ask me anything about **MernStack Development**.
 
 ### 📬 Connect with me: 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-durul-851511151/)
-[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alidrl26@gmail.com)](mailto:alidrl26@gmail.com)
-![](https://komarev.com/ghpvc/?username=AliDurul&color=blue&style=for-the-badge)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilufer-kaplan/)
+[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:niluferk038@gmail.com)](mailto:niluferk038@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 <div id="user-content-toc">
