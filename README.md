@@ -13,16 +13,6 @@
 
 <p>  Hello, and welcome to my GitHub profile! I'm Dedicated to lifelong learning, I continuously seek out new technologies, tools, and libraries to enhance my skill set. Effectively merge hands-on development expertise with a commitment to teaching. </p>
 
- <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture> <br>
-
-
-- Ask me anything about **MernStack Development**.
-
-### 📬 Connect with me: 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilufer-kaplan/)
-[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:niluferk038@gmail.com)](mailto:niluferk038@gmail.com)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 <div id="user-content-toc">
   <ul>
     <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
@@ -101,6 +91,18 @@
         </td>
     </tr>
 </table>
+
+ <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture> <br>
+
+
+- Ask me anything about **MernStack Development**.
+
+### 📬 Connect with me: 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilufer-kaplan/)
+[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:niluferk038@gmail.com)](mailto:niluferk038@gmail.com)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
+
 
 <div id="user-content-toc">
   <ul>
