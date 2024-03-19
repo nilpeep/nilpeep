@@ -25,15 +25,46 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,redux,bootstrap,materialui,tailwind,sass,styledcomponents,py,linux,mysql,mongodb,postgres,mysql,firebase,postman,azure,github,gitlab,vercel,vite,git,vscode,figma&perline=15" />
-  </a>
-</p>
+<table border="1">
+    <tr>
+        <th>Programming Languages:</th>
+        <th>
+          <p align="center">
+          <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=go,js,ts" />
+          </a>
+          </p>
+        </th>
+    </tr>
+    <tr>
+        <td>Frontend</td>
+        <td>Satır 1, Hücre 2</td>
+    </tr>
+    <tr>
+        <td>Backend</td>
+        <td>Satır 2, Hücre 2</td>
+    </tr>
+    <tr>
+        <td>Styling</td>
+        <td>Satır 3, Hücre 2</td>
+    </tr>
+    <tr>
+        <td>Testing</td>
+        <td>Satır 4, Hücre 2</td>
+    </tr>
+    <tr>
+        <td>Database</td>
+        <td>Satır 5, Hücre 2</td>
+    </tr>
+    <tr>
+        <td>Tools</td>
+        <td>Satır 6, Hücre 2</td>
+    </tr>
+</table>
 
 <div id="user-content-toc">
   <ul>
