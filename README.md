@@ -42,27 +42,63 @@
     </tr>
     <tr>
         <td>Frontend</td>
-        <td>Satır 1, Hücre 2</td>
+        <td>
+          <p align="center">
+          <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,redux,html,css,js" />
+          </a>
+          </p>
+        </td>
     </tr>
     <tr>
         <td>Backend</td>
-        <td>Satır 2, Hücre 2</td>
+        <td>
+          <p align="center">
+          <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,go,docker" />
+          </a>
+          </p>
+        </td>
     </tr>
     <tr>
         <td>Styling</td>
-        <td>Satır 3, Hücre 2</td>
+        <td>
+          <p align="center">
+          <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=css,sass,tailwind,materialui,bootstrap,styledcomponents" />
+          </a>
+          </p>
+        </td>
     </tr>
     <tr>
         <td>Testing</td>
-        <td>Satır 4, Hücre 2</td>
+        <td>
+          <p align="center">
+          <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=cypress" />
+          </a>
+          </p>
+        </td>
     </tr>
     <tr>
         <td>Database</td>
-        <td>Satır 5, Hücre 2</td>
+        <td>
+          <p align="center">
+          <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=sqlite,sequelize,mongodb,postgres" />
+          </a>
+          </p>
+        </td>
     </tr>
     <tr>
         <td>Tools</td>
-        <td>Satır 6, Hücre 2</td>
+        <td>
+          <p align="center">
+          <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=webstrom, vscode, git,netlify,vercel, postman" />
+          </a>
+          </p>
+        </td>
     </tr>
 </table>
 
