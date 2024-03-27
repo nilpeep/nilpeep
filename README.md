@@ -92,6 +92,5 @@
     </tr>
 </table>
 
- <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture> <br>
 
 
