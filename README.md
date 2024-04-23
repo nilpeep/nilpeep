@@ -28,7 +28,7 @@
           <img src="https://skillicons.dev/icons?i=go,js,ts" />
           </a>
           </p>
-          <div>goLang, javaScript , typeScript</div>
+          <div>goLang • javaScript • typeScript</div>
         </th>
     </tr>
     <tr>
@@ -36,9 +36,10 @@
         <td>
           <p align="center">
           <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,redux,html,css,js,figma" />
+          <img src="https://skillicons.dev/icons?i=react,next,redux,html,css,js,figma" />
           </a>
           </p>
+          <div>react.js • next.js • redux • html • css • javaScript • figma</div>
         </td>
     </tr>
     <tr>
@@ -49,6 +50,7 @@
           <img src="https://skillicons.dev/icons?i=nodejs,express,go,docker" />
           </a>
           </p>
+          <div>node.js • express.js • goLang • docker</div>
         </td>
     </tr>
     <tr>
@@ -59,6 +61,7 @@
           <img src="https://skillicons.dev/icons?i=css,sass,tailwind,materialui,bootstrap,styledcomponents" />
           </a>
           </p>
+          <div>css • sass • tailwind • materialUI • bootstrap • styled-components</div>
         </td>
     </tr>
     <tr>
@@ -69,6 +72,7 @@
           <img src="https://skillicons.dev/icons?i=cypress" />
           </a>
           </p>
+          <div>cypress.js</div>
         </td>
     </tr>
     <tr>
@@ -79,6 +83,7 @@
           <img src="https://skillicons.dev/icons?i=sqlite,sequelize,mongodb,postgres" />
           </a>
           </p>
+          <div>SQLite • sequelize • mongoDB • postgreSQL</div>
         </td>
     </tr>
     <tr>
@@ -87,6 +92,7 @@
           <p align="center">
           <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=webstrom,vscode,git,netlify,vercel,postman" />
+            <div>webstorm • vscode • git • netlify • vercel • postman</div>
           </a>
           </p>
         </td>
