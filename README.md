@@ -28,6 +28,7 @@
           <img src="https://skillicons.dev/icons?i=go,js,ts" />
           </a>
           </p>
+          <div>goLang, javaScript , typeScript</div>
         </th>
     </tr>
     <tr>
