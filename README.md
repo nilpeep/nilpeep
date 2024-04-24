@@ -25,16 +25,16 @@
         <td>
           <p>
           <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=go,js,ts" />
+          <img src="https://skillicons.dev/icons?i=js,ts" />
           </a>
           </p>
-          <div>goLang • javaScript • typeScript</div>
+          <div>javaScript • typeScript</div>
         </td>
     </tr>
     <tr>
         <td>Frontend</td>
         <td>
-          <p align="center">
+          <p>
           <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=react,next,redux,html,css,js,figma" />
           </a>
@@ -45,7 +45,7 @@
     <tr>
         <td>Backend</td>
         <td>
-          <p align="center">
+          <p >
           <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=nodejs,express,go,docker" />
           </a>
@@ -56,7 +56,7 @@
     <tr>
         <td>Styling</td>
         <td>
-          <p align="center">
+          <p >
           <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=css,sass,tailwind,materialui,bootstrap,styledcomponents" />
           </a>
@@ -67,7 +67,7 @@
     <tr>
         <td>Testing</td>
         <td>
-          <p align="center">
+          <p >
           <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=cypress" />
           </a>
@@ -78,7 +78,7 @@
     <tr>
         <td>Database</td>
         <td>
-          <p align="center">
+          <p >
           <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=sqlite,sequelize,mongodb,postgres" />
           </a>
@@ -89,7 +89,7 @@
     <tr>
         <td>Tools</td>
         <td>
-          <p align="center">
+          <p >
           <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=webstrom,vscode,git,netlify,vercel,postman" />
             <div>webstorm • vscode • git • netlify • vercel • postman</div>
