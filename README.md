@@ -91,7 +91,7 @@
         <td>
           <p >
           <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=webstrom,vscode,git,netlify,vercel,postman" />
+          <img src="https://skillicons.dev/icons?i=webstorm,vscode,git,netlify,vercel,postman" />
             <div>webstorm • vscode • git • netlify • vercel • postman</div>
           </a>
           </p>
