@@ -21,15 +21,15 @@
 <!--tech stack icons-->
 <table border="1">
     <tr>
-        <th>Programming Languages:</th>
-        <th>
-          <p align="center">
+        <td>Programming Languages:</td>
+        <td>
+          <p>
           <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=go,js,ts" />
           </a>
           </p>
           <div>goLang • javaScript • typeScript</div>
-        </th>
+        </td>
     </tr>
     <tr>
         <td>Frontend</td>
