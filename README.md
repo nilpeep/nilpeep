@@ -54,7 +54,7 @@
         </td>
     </tr>
     <tr>
-        <td>CI/CDBackend</td>
+        <td>CI/CD</td>
         <td>
           <p >
           <a href="https://skillicons.dev">
