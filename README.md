@@ -54,6 +54,17 @@
         </td>
     </tr>
     <tr>
+        <td>CI/CDBackend</td>
+        <td>
+          <p >
+          <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=gitlab,jenkins,docker" />
+          </a>
+          </p>
+          <div>GitLab • jenkins • docker</div>
+        </td>
+    </tr>
+    <tr>
         <td>Styling</td>
         <td>
           <p >
