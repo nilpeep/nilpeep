@@ -25,10 +25,10 @@
         <td>
           <p>
           <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=js,ts" />
+          <img src="https://skillicons.dev/icons?i=js,ts,go" />
           </a>
           </p>
-          <div>javaScript • typeScript</div>
+          <div>javaScript • typeScript • goLang </div>
         </td>
     </tr>
     <tr>
@@ -47,10 +47,10 @@
         <td>
           <p >
           <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,go,docker" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,go,gingonic" />
           </a>
           </p>
-          <div>node.js • express.js • goLang • docker</div>
+          <div>node.js • express.js • goLang • ginGonic</div>
         </td>
     </tr>
     <tr>
