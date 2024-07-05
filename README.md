@@ -48,10 +48,10 @@
         <td>
           <p >
           <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,go,gingonic" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express" />
           </a>
           </p>
-          <div>node.js • express.js • goLang • ginGonic</div>
+          <div>node.js • express.js • goLang • ginGonic,graphql</div>
         </td>
     </tr>
     <tr>
